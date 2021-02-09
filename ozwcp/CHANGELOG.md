@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.3] - 2021-02-09
+### Fixed
+* Replaced `auto_uart` with `uart` (Fix for Supervisor 2021.02.5)
+
 ## [1.1.2] - 2019-08-09
 ### Fixed
 * Fixed Docker build failure
